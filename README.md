@@ -1,3 +1,6 @@
+# Descrição
+
+Resolução do problema proposto pela: [indicium](https://github.com/techindicium/code-challenge)
 # Requisitos
 
 - python3
